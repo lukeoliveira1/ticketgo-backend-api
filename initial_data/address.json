@@ -1,0 +1,82 @@
+[
+    {
+        "model": "address.address",
+        "pk": 1,
+        "fields": {
+            "uuid": "2d699fc1-6d2b-40c8-be27-048db2266654",
+            "created_at": "2023-08-01T12:00:00Z",
+            "updated_at": "2023-08-01T12:00:00Z",
+            "street": "Av. Ulisses Guimarães",
+            "number": 466,
+            "district": "Redinha",
+            "city": "Natal",
+            "state": "RN",
+            "country": "Brasil",
+            "zip_code": "59122-170"
+        }
+    },
+    {
+        "model": "address.address",
+        "pk": 2,
+        "fields": {
+            "uuid": "21e60a13-bea0-411d-8716-5913a23938e3",
+            "created_at": "2023-08-01T12:00:00Z",
+            "updated_at": "2023-08-01T12:00:00Z",
+            "street": "R. Dourado",
+            "number": 582,
+            "district": "Extremoz",
+            "city": "Natal",
+            "state": "RN",
+            "country": "Brasil",
+            "zip_code": "59575-000"
+        }
+    },
+    {
+        "model": "address.address",
+        "pk": 3,
+        "fields": {
+            "uuid": "e59b31fc-edb8-41c9-b164-ace9754e77d8",
+            "created_at": "2023-08-01T12:00:00Z",
+            "updated_at": "2023-08-01T12:00:00Z",
+            "street": "R. Jundiaí",
+            "number": 458,
+            "district": "Tirol",
+            "city": "Natal",
+            "state": "RN",
+            "country": "Brasil",
+            "zip_code": "59020-120"
+        }
+    },
+    {
+        "model": "address.address",
+        "pk": 4,
+        "fields": {
+            "uuid": "c2e9a161-da8d-40b3-844b-d806cc608f4c",
+            "created_at": "2023-08-01T12:00:00Z",
+            "updated_at": "2023-08-01T12:00:00Z",
+            "street": "Av. Rio Branco",
+            "number": 542,
+            "district": "Cidade Alta",
+            "city": "Natal",
+            "state": "RN",
+            "country": "Brasil",
+            "zip_code": "59025-001"
+        }
+    },
+    {
+        "model": "address.address",
+        "pk": 5,
+        "fields": {
+            "uuid": "fde5f9b3-251e-458d-ad6f-43b46eed9b75",
+            "created_at": "2023-08-01T12:00:00Z",
+            "updated_at": "2023-08-01T12:00:00Z",
+            "street": "Av. Gov. Rafael Fernandes",
+            "number": 1005,
+            "district": "Alecrim",
+            "city": "Natal",
+            "state": "RN",
+            "country": "Brasil",
+            "zip_code": "59040-040"
+        }
+    }
+]
