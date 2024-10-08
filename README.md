@@ -1,6 +1,19 @@
 # TicketGo
 
-TicketGo é marketplace de ingressos on-line.
+TicketGo é um marketplace de ingressos online que permite aos usuários comprar e vender ingressos de forma simples e segura.
+
+## Principais Funcionalidades:
+- Integração com Asaas: <br/>
+  Facilita o processamento de pagamentos, garantindo transações seguras e confiáveis.
+
+- Backup de Dados: <br/>
+  Possui um comando para backup, assegurando a integridade e a recuperação de informações críticas.
+
+- Auditoria de Mudanças: <br/>
+  Implementa auditoria usando django-simple-history, permitindo rastrear alterações em usuários e compras.
+
+- Autenticação via Token: <br/>
+  Garante segurança na autenticação de usuários, permitindo acesso controlado aos recursos da API.
 
 ## Instalação
 
